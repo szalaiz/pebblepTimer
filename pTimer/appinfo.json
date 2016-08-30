@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "szala",
+    "longName": "Presenter Timer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon24.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "pTimer",
+    "uuid": "7dbe5215-5074-4a43-8dea-12737f483919",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
